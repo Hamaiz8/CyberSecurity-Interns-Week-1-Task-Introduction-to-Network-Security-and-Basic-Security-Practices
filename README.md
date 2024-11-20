@@ -31,7 +31,7 @@ Understanding these fundamental cybersecurity concepts is crucial for protecting
 
 
 # Task 2: Setting Up a Secure Virtual Environment
-
+*(refer to pdf)*
 VM SETUP
  
  
@@ -59,7 +59,7 @@ Configure Firewall Settings Using UFW
 
 
 # Task3: Network Security Basics: Packet Analysis
- 
+ *(refer to pdf)*
 
 Summary:
 IP Addresses:
