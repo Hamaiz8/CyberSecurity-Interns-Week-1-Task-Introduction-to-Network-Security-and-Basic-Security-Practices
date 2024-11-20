@@ -11,6 +11,7 @@ The CIA Triad is a foundational model that guides cybersecurity policies and pra
 Confidentiality: This principle ensures that sensitive information is accessible only to those authorized to view it. Techniques like encryption and access control are employed to maintain confidentiality.
 Integrity: Integrity refers to the accuracy and trustworthiness of data. It ensures that information remains unaltered during storage and transmission. Hashing and digital signatures are common methods used to verify integrity.
 Availability: This principle ensures that information and resources are accessible when needed. Organizations implement redundancy and disaster recovery plans to maintain availability, protecting against system failures and attacks.
+
  
 Types of Cyber Attacks
 Cyber attacks can take many forms, each targeting different vulnerabilities. Here are some of the most common types:
