@@ -32,6 +32,7 @@ Understanding these fundamental cybersecurity concepts is crucial for protecting
 
 # Task 2: Setting Up a Secure Virtual Environment
 *(refer to pdf)*
+
 VM SETUP
  
  
